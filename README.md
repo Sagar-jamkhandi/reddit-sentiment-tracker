@@ -1,3 +1,5 @@
+https://reddit-sentiment-tracker-sagar-jkd.streamlit.app/
+
 # 💬 Real-Time Sentiment Tracker
 
 Pulls live posts from a public API, scores sentiment using **VADER**
